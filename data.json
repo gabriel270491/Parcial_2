@@ -1,1 +1,182 @@
-[{"year": 2018, "province": "Panam\u00e1", "coverage": 95}, {"year": 2017, "province": "Col\u00f3n", "coverage": 92}, {"year": 2016, "province": "Chiriqu\u00ed", "coverage": 93}, {"year": 2015, "province": "Panam\u00e1", "coverage": 94}, {"year": 2014, "province": "Veraguas", "coverage": 91}]
+[
+    {
+        "year": 1983,
+        "province": "Panam\u00e1",
+        "coverage": 63
+    },
+    {
+        "year": 1984,
+        "province": "Panam\u00e1",
+        "coverage": 65
+    },
+    {
+        "year": 1985,
+        "province": "Panam\u00e1",
+        "coverage": 68
+    },
+    {
+        "year": 1986,
+        "province": "Panam\u00e1",
+        "coverage": 70
+    },
+    {
+        "year": 1987,
+        "province": "Panam\u00e1",
+        "coverage": 72
+    },
+    {
+        "year": 1988,
+        "province": "Panam\u00e1",
+        "coverage": 73
+    },
+    {
+        "year": 1989,
+        "province": "Panam\u00e1",
+        "coverage": 75
+    },
+    {
+        "year": 1990,
+        "province": "Panam\u00e1",
+        "coverage": 77
+    },
+    {
+        "year": 1991,
+        "province": "Panam\u00e1",
+        "coverage": 78
+    },
+    {
+        "year": 1992,
+        "province": "Panam\u00e1",
+        "coverage": 79
+    },
+    {
+        "year": 1993,
+        "province": "Panam\u00e1",
+        "coverage": 80
+    },
+    {
+        "year": 1994,
+        "province": "Panam\u00e1",
+        "coverage": 82
+    },
+    {
+        "year": 1995,
+        "province": "Panam\u00e1",
+        "coverage": 83
+    },
+    {
+        "year": 1996,
+        "province": "Panam\u00e1",
+        "coverage": 85
+    },
+    {
+        "year": 1997,
+        "province": "Panam\u00e1",
+        "coverage": 86
+    },
+    {
+        "year": 1998,
+        "province": "Panam\u00e1",
+        "coverage": 87
+    },
+    {
+        "year": 1999,
+        "province": "Panam\u00e1",
+        "coverage": 88
+    },
+    {
+        "year": 2000,
+        "province": "Panam\u00e1",
+        "coverage": 89
+    },
+    {
+        "year": 2001,
+        "province": "Panam\u00e1",
+        "coverage": 90
+    },
+    {
+        "year": 2002,
+        "province": "Panam\u00e1",
+        "coverage": 91
+    },
+    {
+        "year": 2003,
+        "province": "Panam\u00e1",
+        "coverage": 91
+    },
+    {
+        "year": 2004,
+        "province": "Panam\u00e1",
+        "coverage": 92
+    },
+    {
+        "year": 2005,
+        "province": "Panam\u00e1",
+        "coverage": 92
+    },
+    {
+        "year": 2006,
+        "province": "Panam\u00e1",
+        "coverage": 93
+    },
+    {
+        "year": 2007,
+        "province": "Panam\u00e1",
+        "coverage": 93
+    },
+    {
+        "year": 2008,
+        "province": "Panam\u00e1",
+        "coverage": 93
+    },
+    {
+        "year": 2009,
+        "province": "Panam\u00e1",
+        "coverage": 94
+    },
+    {
+        "year": 2010,
+        "province": "Panam\u00e1",
+        "coverage": 94
+    },
+    {
+        "year": 2011,
+        "province": "Panam\u00e1",
+        "coverage": 94
+    },
+    {
+        "year": 2012,
+        "province": "Panam\u00e1",
+        "coverage": 94
+    },
+    {
+        "year": 2013,
+        "province": "Panam\u00e1",
+        "coverage": 95
+    },
+    {
+        "year": 2014,
+        "province": "Panam\u00e1",
+        "coverage": 95
+    },
+    {
+        "year": 2015,
+        "province": "Panam\u00e1",
+        "coverage": 95
+    },
+    {
+        "year": 2016,
+        "province": "Panam\u00e1",
+        "coverage": 95
+    },
+    {
+        "year": 2017,
+        "province": "Panam\u00e1",
+        "coverage": 93
+    },
+    {
+        "year": 2018,
+        "province": "Panam\u00e1",
+        "coverage": 92
+    }
+]
